@@ -1,2 +1,3 @@
 # mergeTest
 First
+test2
